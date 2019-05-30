@@ -6,7 +6,7 @@ const jordan = {
   
   lastName: 'Miles',  
   
-  avatar: 'https://avatars0.githubusercontent.com/u/23345213?s=400&u=4b04e2c80b935ee714ae5a54994050717d61e2bb&v=4',  
+  avatar: '[Avatar](https://avatars0.githubusercontent.com/u/23345213?s=400&u=4b04e2c80b935ee714ae5a54994050717d61e2bb&v=4)',  
   
   createdAt: 'Tue Jan 17 11:32:55 +0530 1995',  
   
