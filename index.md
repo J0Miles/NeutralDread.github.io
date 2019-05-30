@@ -57,7 +57,7 @@ const jordan = {
 
 ### Projects
 
-My Personal Blog site [here](https://jordansgymlocker.com)
+My Personal Fitness Blog site and product review [here](https://jordansgymlocker.com)
 
 ```markdown
 Syntax highlighted code block
