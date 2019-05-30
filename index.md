@@ -57,27 +57,9 @@ const jordan = {
 
 ### Projects
 
-My Personal Fitness Blog site and product review [here](https://jordansgymlocker.com)
+My Personal Fitness Blog site and product review [here](https://jordansgymlocker.com)  
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+My Prototype portfolio - custom coded [here](https://codepen.io/NeutralDread/full/GMdaWb) 
 
 ### Jekyll Themes
 
