@@ -1,7 +1,8 @@
 ## Jordan Miles Portfolio
-<code>
-const jordan = {  
-  
+
+`const jordan = {  
+
+ 
   firstName: 'Jordan',  
   
   lastName: 'Miles',  
@@ -52,8 +53,8 @@ const jordan = {
     'Politics'
   ]  
   
-};
-<code>
+};`
+
 ### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
